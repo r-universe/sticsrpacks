@@ -2,8 +2,20 @@
   {
     "package": "ApsimOnR",
     "url": "https://github.com/hol430/ApsimOnR",
+    "via": ["CroptimizR"],
+    "from": "CroptimizR"
+  },
+  {
+    "package": "ApsimOnR",
+    "url": "https://github.com/hol430/ApsimOnR",
     "via": ["SticsRPacks", "CroptimizR"],
     "from": "SticsRPacks"
+  },
+  {
+    "package": "CroPlotR",
+    "url": "https://github.com/SticsRPacks/CroPlotR",
+    "via": ["CroptimizR"],
+    "from": "CroptimizR"
   },
   {
     "package": "CroPlotR",
@@ -16,6 +28,12 @@
     "url": "https://github.com/SticsRPacks/CroptimizR",
     "via": ["SticsRPacks"],
     "from": "SticsRPacks"
+  },
+  {
+    "package": "SticsOnR",
+    "url": "https://github.com/SticsRPacks/SticsOnR",
+    "via": ["CroptimizR"],
+    "from": "CroptimizR"
   },
   {
     "package": "SticsOnR",
