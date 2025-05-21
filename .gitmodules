@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/sticsrpacks/sticsrpacks.r-universe.dev
 	branch = HEAD
+[submodule "ApsimOnR"]
+	path = ApsimOnR
+	url = https://github.com/hol430/ApsimOnR
+	registered = false
 [submodule "CroPlotR"]
 	path = CroPlotR
 	url = https://github.com/SticsRPacks/CroPlotR
