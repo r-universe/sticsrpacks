@@ -1,7 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sticsrpacks/sticsrpacks.r-universe.dev
 	branch = HEAD
+[submodule "CroPlotR"]
+	path = CroPlotR
+	url = https://github.com/SticsRPacks/CroPlotR
+[submodule "CroptimizR"]
+	path = CroptimizR
+	url = https://github.com/SticsRPacks/CroptimizR
+[submodule "SticsOnR"]
+	path = SticsOnR
+	url = https://github.com/SticsRPacks/SticsOnR
 [submodule "SticsRFiles"]
 	path = SticsRFiles
-	url = https://github.com/sticsrpacks/sticsrfiles
+	url = https://github.com/SticsRPacks/SticsRFiles
+[submodule "SticsRPacks"]
+	path = SticsRPacks
+	url = https://github.com/SticsRPacks/SticsRPacks
