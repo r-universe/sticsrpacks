@@ -44,6 +44,12 @@
   {
     "package": "SticsRFiles",
     "url": "https://github.com/SticsRPacks/SticsRFiles",
+    "via": ["CroptimizR"],
+    "from": "CroptimizR"
+  },
+  {
+    "package": "SticsRFiles",
+    "url": "https://github.com/SticsRPacks/SticsRFiles",
     "via": ["SticsRPacks"],
     "from": "SticsRPacks"
   }
